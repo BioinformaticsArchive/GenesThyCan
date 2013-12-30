@@ -1,5 +1,5 @@
 #ignore everything
 *
 
-#except .java source
-!*.java
+#except source files
+!src/*
