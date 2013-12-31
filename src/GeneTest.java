@@ -5,7 +5,6 @@ import genetukit.api.GNResultItem;
 import java.io.BufferedReader;
 import java.util.Properties;
 
-
 /*
  * The test is now runnable. 
  * Things to note:
