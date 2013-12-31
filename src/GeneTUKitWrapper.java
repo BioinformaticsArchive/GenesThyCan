@@ -22,6 +22,7 @@ import uk.ac.man.entitytagger.generate.GenerateMatchers;
  * Wrapper for the GeneTUKit gene NER tool.
  * @author Martin
  * Can combine this with Textpipe
+ * Textpipe is really awesome!!!
  */
 public class GeneTUKitWrapper {
 	private GNProcessor processor;
