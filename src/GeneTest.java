@@ -5,7 +5,12 @@ import genetukit.api.GNResultItem;
 import java.io.BufferedReader;
 import java.util.Properties;
 
-
+/*
+ * The test is now runnable. 
+ * Things to note:
+ * 1. the dragon tool jar library needs to be updated to the latest version
+ * 2. The config file needs to be modified for database access
+ */
 public class GeneTest {
 	public static void getEnv(){
 		   BufferedReader br;
