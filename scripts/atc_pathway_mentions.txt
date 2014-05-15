@@ -1,0 +1,689 @@
+doc_id	pathway_mention	rb_label
+11158054	cAMP pathway	ATC|FTC
+20596658	ABC transporters	ATC
+16263821	Adherens junction	ATC
+14654945	Adipogenesis	ATC
+19727716	Ad-p53 transduction	ATC
+17317825	Akt pathway	ATC
+23598436	Akt pathway	ATC
+16001179	Angiogenesis	ATC
+16001179	Angiogenesis	ATC
+16154259	Angiogenesis	ATC
+16943578	Angiogenesis	ATC|FTC
+17575107	Angiogenesis	ATC
+17575107	Angiogenesis	ATC
+17575107	Angiogenesis	ATC
+2651830	Angiogenesis	ATC
+17429874	Angiogenesis	ATC
+21220477	Angiogenesis	ATC
+23135100	Angiogenesis	ATC
+23135100	Angiogenesis	ATC
+22918703	Angiogenesis	ATC
+19158360	Angiogenesis	ATC
+19158360	Angiogenesis	ATC
+19158360	Angiogenesis	ATC
+19158360	Angiogenesis	ATC
+16474910	Angiogenesis	ATC
+15658667	Angiogenesis	ATC
+20053778	Angiogenesis	ATC
+20053778	Angiogenesis	ATC
+11297616	Angiogenesis	ATC
+11297616	Angiogenesis	ATC
+11297616	Angiogenesis	ATC
+11297616	Angiogenesis	ATC
+9314059	Angiogenesis	ATC
+9314059	Angiogenesis	ATC
+22919068	Angiogenesis	ATC
+12490072	Angiogenesis	ATC
+12490072	Angiogenesis	ATC
+17671138	Angiogenesis	ATC
+9768682	Angiogenesis	ATC
+9768682	Angiogenesis	ATC
+9768682	Angiogenesis	ATC
+9768682	Angiogenesis	ATC
+18423422	Angiogenesis	ATC
+19854299	Angiogenesis	ATC
+19854299	Angiogenesis	ATC
+19854299	Angiogenesis	ATC
+19854299	Angiogenesis	ATC
+16093430	Angiogenesis	ATC
+20628483	Angiogenesis	ATC
+11297616	Angiogenesis	ATC
+17431111	Angiogenesis	ATC
+23598436	Angiogenesis	ATC
+21389145	Apoptosis	ATC
+21389145	Apoptosis	ATC
+16001179	Apoptosis	ATC
+15475567	Apoptosis	ATC|MTC|PTC|FTC
+15475567	Apoptosis	ATC|MTC|PTC|FTC
+15475567	Apoptosis	ATC|MTC|PTC|FTC
+15475567	Apoptosis	ATC|MTC|PTC|FTC
+15475567	Apoptosis	ATC|MTC|PTC|FTC
+12915687	Apoptosis	ATC
+12915687	Apoptosis	ATC
+12915687	Apoptosis	ATC
+16899627	Apoptosis	ATC
+11272092	Apoptosis	ATC
+16263821	Apoptosis	ATC
+23231932	Apoptosis	PTC|ATC
+23231932	Apoptosis	PTC|ATC
+23231932	Apoptosis	PTC|ATC
+23231932	Apoptosis	PTC|ATC
+15623643	Apoptosis	ATC
+15623643	Apoptosis	ATC
+15623643	Apoptosis	ATC
+21423091	Apoptosis	ATC
+21501031	Apoptosis	ATC
+17575107	Apoptosis	ATC
+21568723	Apoptosis	ATC
+21568723	Apoptosis	ATC
+21568723	Apoptosis	ATC
+21568723	Apoptosis	ATC
+21568723	Apoptosis	ATC
+16613343	Apoptosis	ATC|PTC|FTC
+20061417	Apoptosis	ATC
+17188136	Apoptosis	ATC|PDTC
+17188136	Apoptosis	ATC|PDTC
+17188136	Apoptosis	ATC|PDTC
+16172195	Apoptosis	ATC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+19802013	Apoptosis	ATC
+19802013	Apoptosis	ATC
+19802013	Apoptosis	ATC
+19802013	Apoptosis	ATC
+24114422	Apoptosis	ATC
+24114422	Apoptosis	ATC
+24114422	Apoptosis	ATC
+15044368	Apoptosis	ATC
+15044368	Apoptosis	ATC
+15044368	Apoptosis	ATC
+20734161	Apoptosis	ATC
+22043992	Apoptosis	ATC
+23509868	Apoptosis	ATC|PDTC
+23509868	Apoptosis	ATC|PDTC
+23429749	Apoptosis	ATC
+23429749	Apoptosis	ATC
+23845866	Apoptosis	ATC
+16392960	Apoptosis	ATC
+16392960	Apoptosis	ATC
+12574211	Apoptosis	ATC
+12574211	Apoptosis	ATC
+12574211	Apoptosis	ATC
+12574211	Apoptosis	ATC
+22650230	Apoptosis	ATC
+22650230	Apoptosis	ATC
+22650230	Apoptosis	ATC
+22650230	Apoptosis	ATC
+21571321	Apoptosis	ATC
+21571321	Apoptosis	ATC
+12423550	Apoptosis	ATC
+12423550	Apoptosis	ATC
+12423550	Apoptosis	ATC
+11349829	Apoptosis	ATC
+11349829	Apoptosis	ATC
+11349829	Apoptosis	ATC
+21400508	Apoptosis	ATC
+17967301	Apoptosis	ATC
+17967301	Apoptosis	ATC
+23135100	Apoptosis	ATC
+23135100	Apoptosis	ATC
+23135100	Apoptosis	ATC
+17914112	Apoptosis	ATC
+15769983	Apoptosis	ATC
+15769983	Apoptosis	ATC
+15769983	Apoptosis	ATC
+15769983	Apoptosis	ATC
+15769983	Apoptosis	ATC
+15769983	Apoptosis	ATC
+16613808	Apoptosis	ATC|PTC|FTC
+23594881	Apoptosis	ATC
+23569377	Apoptosis	ATC
+17393983	Apoptosis	ATC
+17316109	Apoptosis	ATC
+17316109	Apoptosis	ATC
+22191389	Apoptosis	ATC
+18316577	Apoptosis	ATC
+18316577	Apoptosis	ATC
+16676399	Apoptosis	ATC
+16676399	Apoptosis	ATC
+12707822	Apoptosis	ATC
+9122032	Apoptosis	ATC
+22586301	Apoptosis	PTC|ATC
+22586301	Apoptosis	PTC|ATC
+22718346	Apoptosis	ATC
+14715879	Apoptosis	ATC
+16278386	Apoptosis	ATC
+16278386	Apoptosis	ATC
+16278386	Apoptosis	ATC
+16551737	Apoptosis	ATC
+24216474	Apoptosis	ATC
+24216474	Apoptosis	ATC
+24216474	Apoptosis	ATC
+24216474	Apoptosis	ATC
+24216474	Apoptosis	ATC
+22042554	Apoptosis	ATC
+17079354	Apoptosis	ATC
+14557490	Apoptosis	ATC
+22633083	Apoptosis	ATC
+16213899	Apoptosis	ATC
+22991264	Apoptosis	ATC
+11600533	Apoptosis	ATC
+11600533	Apoptosis	ATC
+11600533	Apoptosis	ATC
+11600533	Apoptosis	ATC
+21725973	Apoptosis	ATC
+21725973	Apoptosis	ATC
+21725973	Apoptosis	ATC
+20219414	Apoptosis	ATC
+20219414	Apoptosis	ATC
+20219414	Apoptosis	ATC
+20219414	Apoptosis	ATC
+24345332	Apoptosis	ATC
+10628390	Apoptosis	ATC
+18085520	Apoptosis	PTC|ATC
+18085520	Apoptosis	PTC|ATC
+18572621	Apoptosis	ATC
+12680148	Apoptosis	ATC
+19723757	Apoptosis	ATC|PTC|FTC
+18987168	Apoptosis	ATC
+23982257	Apoptosis	ATC
+19825993	Apoptosis	ATC
+19825993	Apoptosis	ATC
+10192728	Apoptosis	ATC
+11095436	Apoptosis	ATC
+20418080	Apoptosis	ATC
+16410725	Apoptosis	ATC
+16410725	Apoptosis	ATC
+16410725	Apoptosis	ATC
+16410725	Apoptosis	ATC
+16410725	Apoptosis	ATC
+16410725	Apoptosis	ATC
+16410725	Apoptosis	ATC
+16410725	Apoptosis	ATC
+16410725	Apoptosis	ATC
+16410725	Apoptosis	ATC
+16010429	Apoptosis	ATC
+16010429	Apoptosis	ATC
+16010429	Apoptosis	ATC
+16010429	Apoptosis	ATC
+16010429	Apoptosis	ATC
+16010429	Apoptosis	ATC
+19683979	Apoptosis	PTC|ATC
+19683979	Apoptosis	PTC|ATC
+19683979	Apoptosis	PTC|ATC
+19683979	Apoptosis	PTC|ATC
+12933658	Apoptosis	ATC
+12933658	Apoptosis	ATC
+12933658	Apoptosis	ATC
+12933658	Apoptosis	ATC
+12933658	Apoptosis	ATC
+12933658	Apoptosis	ATC
+12933658	Apoptosis	ATC
+18958156	Apoptosis	ATC
+16264365	Apoptosis	ATC
+16435154	Apoptosis	ATC
+16435154	Apoptosis	ATC
+11059731	Apoptosis	PTC|ATC
+18541361	Apoptosis	ATC
+19230027	Apoptosis	ATC
+19230027	Apoptosis	ATC
+19230027	Apoptosis	ATC
+19230027	Apoptosis	ATC
+19230027	Apoptosis	ATC
+19230027	Apoptosis	ATC
+19230027	Apoptosis	ATC
+17848408	Apoptosis	ATC|MTC
+17848408	Apoptosis	ATC|MTC
+17848408	Apoptosis	ATC|MTC
+23055533	Apoptosis	ATC
+23055533	Apoptosis	ATC
+23055533	Apoptosis	ATC
+18478924	Apoptosis	ATC
+18478924	Apoptosis	ATC
+18478924	Apoptosis	ATC
+18478924	Apoptosis	ATC
+21907187	Apoptosis	ATC
+21214672	Apoptosis	ATC|FTC|PDTC
+15827337	Apoptosis	ATC
+15827337	Apoptosis	ATC
+23376608	Apoptosis	ATC
+23376608	Apoptosis	ATC
+23376608	Apoptosis	ATC
+23376608	Apoptosis	ATC
+23376608	Apoptosis	ATC
+23376608	Apoptosis	ATC
+19885592	Apoptosis	ATC
+19885592	Apoptosis	ATC
+23462194	Apoptosis	ATC
+23462194	Apoptosis	ATC
+18430894	Apoptosis	ATC
+18430894	Apoptosis	ATC
+18197164	Apoptosis	ATC
+18197164	Apoptosis	ATC
+11396137	Apoptosis	ATC
+11396137	Apoptosis	ATC
+11396137	Apoptosis	ATC
+22477151	Apoptosis	ATC
+16331265	Apoptosis	ATC
+16331265	Apoptosis	ATC
+18806740	Apoptosis	ATC
+18806740	Apoptosis	ATC
+18806740	Apoptosis	ATC
+17088416	Apoptosis	ATC
+17088416	Apoptosis	ATC
+22072743	Apoptosis	ATC
+16924234	Apoptosis	ATC
+12843138	Apoptosis	ATC
+12843138	Apoptosis	ATC
+12843138	Apoptosis	ATC
+12843138	Apoptosis	ATC
+12843138	Apoptosis	ATC
+12843138	Apoptosis	ATC
+12736725	Apoptosis	ATC
+12736725	Apoptosis	ATC
+12736725	Apoptosis	ATC
+12736725	Apoptosis	ATC
+12736725	Apoptosis	ATC
+12736725	Apoptosis	ATC
+12736725	Apoptosis	ATC
+12736725	Apoptosis	ATC
+23089471	Apoptosis	ATC|FTC|PDTC
+22136818	Apoptosis	ATC
+22136818	Apoptosis	ATC
+14654945	Apoptosis	ATC
+14654945	Apoptosis	ATC
+16849420	Apoptosis	ATC|MTC
+16849420	Apoptosis	ATC|MTC
+24152827	Apoptosis	ATC
+17671138	Apoptosis	ATC
+19199318	Apoptosis	ATC
+19199318	Apoptosis	ATC
+9768682	Apoptosis	ATC
+22477067	Apoptosis	ATC|PDTC|PTC|FTC
+22477067	Apoptosis	ATC|PDTC|PTC|FTC
+22477067	Apoptosis	ATC|PDTC|PTC|FTC
+19360347	Apoptosis	ATC
+19360347	Apoptosis	ATC
+19360347	Apoptosis	ATC
+19360347	Apoptosis	ATC
+19088401	Apoptosis	ATC
+16571083	Apoptosis	ATC
+16215682	Apoptosis	ATC
+23143780	Apoptosis	ATC
+23143780	Apoptosis	ATC
+23143780	Apoptosis	ATC
+15010879	Apoptosis	ATC
+15010879	Apoptosis	ATC
+15010879	Apoptosis	ATC
+17327374	Apoptosis	ATC
+17327374	Apoptosis	ATC
+17327374	Apoptosis	ATC
+17327374	Apoptosis	ATC
+17327374	Apoptosis	ATC
+17327374	Apoptosis	ATC
+17327374	Apoptosis	ATC
+17327374	Apoptosis	ATC
+17327374	Apoptosis	ATC
+17327374	Apoptosis	ATC
+20067110	Apoptosis	ATC
+20067110	Apoptosis	ATC
+20067110	Apoptosis	ATC
+20067110	Apoptosis	ATC
+20067110	Apoptosis	ATC
+20067110	Apoptosis	ATC
+20067110	Apoptosis	ATC
+16093430	Apoptosis	ATC
+16093430	Apoptosis	ATC
+16093430	Apoptosis	ATC
+16093430	Apoptosis	ATC
+22328572	Apoptosis	ATC
+18429962	Apoptosis	ATC
+18653704	Apoptosis	ATC
+18653704	Apoptosis	ATC
+18653704	Apoptosis	ATC
+19300411	Apoptosis	ATC
+19300411	Apoptosis	ATC
+19300411	Apoptosis	ATC
+16777971	Apoptosis	ATC
+16777971	Apoptosis	ATC
+23231932	Apoptosis	PTC|ATC
+21423091	Apoptosis	ATC
+21501031	Apoptosis	ATC
+12423550	Apoptosis	ATC
+12423550	Apoptosis	ATC
+11349829	Apoptosis	ATC
+12680148	Apoptosis	ATC
+10192728	Apoptosis	ATC
+19230027	Apoptosis	ATC
+23055533	Apoptosis	ATC
+22477067	Apoptosis	ATC|PDTC|PTC|FTC
+12495476	p21 pathway	ATC
+23569377	caspase-3 pathway	ATC
+11349829	caspase pathway	ATC
+21501031	caspase pathway	ATC
+24170107	Cell cycle	ATC
+24170107	Cell cycle	ATC
+11272092	Cell cycle	ATC
+11272092	Cell cycle	ATC
+11272092	Cell cycle	ATC
+11272092	Cell cycle	ATC
+22194735	Cell cycle	ATC
+9038381	Cell cycle	ATC
+17188136	Cell cycle	ATC|PDTC
+17188136	Cell cycle	ATC|PDTC
+17188136	Cell cycle	ATC|PDTC
+2654483	Cell cycle	ATC
+2654483	Cell cycle	ATC
+2654483	Cell cycle	ATC
+24114422	Cell cycle	ATC
+10815936	Cell cycle	ATC
+17115102	Cell cycle	ATC
+16392960	Cell cycle	ATC
+15118916	Cell cycle	PTC|ATC
+11349829	Cell cycle	ATC
+11349829	Cell cycle	ATC
+11349829	Cell cycle	ATC
+21400508	Cell cycle	ATC
+17393983	Cell cycle	ATC
+17485079	Cell cycle	ATC
+17485079	Cell cycle	ATC
+22586301	Cell cycle	PTC|ATC
+22718346	Cell cycle	ATC
+22718346	Cell cycle	ATC
+22718346	Cell cycle	ATC
+16278386	Cell cycle	ATC
+16278386	Cell cycle	ATC
+16278386	Cell cycle	ATC
+21725973	Cell cycle	ATC
+21725973	Cell cycle	ATC
+23283368	Cell cycle	ATC
+16030158	Cell cycle	ATC
+20689131	Cell cycle	ATC
+18987168	Cell cycle	ATC
+17981789	Cell cycle	ATC
+17981789	Cell cycle	ATC
+17981789	Cell cycle	ATC
+17981789	Cell cycle	ATC
+17981789	Cell cycle	ATC
+20418080	Cell cycle	ATC
+21637923	Cell cycle	ATC
+21182945	Cell cycle	ATC
+19223553	Cell cycle	ATC
+19470727	Cell cycle	ATC
+19470727	Cell cycle	ATC
+18541361	Cell cycle	ATC
+18541361	Cell cycle	ATC
+18541361	Cell cycle	ATC
+8631011	Cell cycle	ATC
+12495476	Cell cycle	ATC
+12495476	Cell cycle	ATC
+19230027	Cell cycle	ATC
+23055533	Cell cycle	ATC
+23055533	Cell cycle	ATC
+23055533	Cell cycle	ATC
+21907187	Cell cycle	ATC
+21214672	Cell cycle	ATC|FTC|PDTC
+21214672	Cell cycle	ATC|FTC|PDTC
+18430894	Cell cycle	ATC
+18430894	Cell cycle	ATC
+11453659	Cell cycle	ATC
+22477151	Cell cycle	ATC
+22477151	Cell cycle	ATC
+16331265	Cell cycle	ATC
+15562011	Cell cycle	ATC
+18806740	Cell cycle	ATC
+18806740	Cell cycle	ATC
+17088416	Cell cycle	ATC
+23089471	Cell cycle	ATC|FTC|PDTC
+12186496	Cell cycle	ATC
+12186496	Cell cycle	ATC
+22688732	Cell cycle	PTC|ATC
+22688732	Cell cycle	PTC|ATC
+22688732	Cell cycle	PTC|ATC
+22688732	Cell cycle	PTC|ATC
+22688732	Cell cycle	PTC|ATC
+23534290	Cell cycle	ATC
+23534290	Cell cycle	ATC
+22202162	Cell cycle	ATC
+22477067	Cell cycle	ATC|PDTC|PTC|FTC
+22477067	Cell cycle	ATC|PDTC|PTC|FTC
+22477067	Cell cycle	ATC|PDTC|PTC|FTC
+19360347	Cell cycle	ATC
+17327374	Cell cycle	ATC
+19300411	Cell cycle	ATC
+19300411	Cell cycle	ATC
+19300411	Cell cycle	ATC
+19300411	Cell cycle	ATC
+16777971	Cell cycle	ATC
+16777971	Cell cycle	ATC
+11349829	Cell cycle	ATC
+16676399	Cell cycle	ATC
+16551737	Cell cycle	ATC
+11453659	Cell cycle	ATC
+8561866	Cell cycle	ATC|FTC
+23231932	Cell cycle	PTC|ATC
+22399519	Cell cycle	ATC
+23594881	Cell cycle	ATC
+22586301	Cell cycle	PTC|ATC
+23231932	Cell cycle	PTC|ATC
+23509868	Centrosome maturation	ATC|PDTC
+21071467	Cytokinesis	ATC
+18430894	Cytokinesis	ATC
+10213482	Degradation of beta catenin	ATC
+23839822	DNA damage response	ATC
+23839822	DNA damage response	ATC
+11059731	DNA Repair	PTC|ATC
+12915687	DNA replication	ATC
+15899946	DNA replication	ATC
+22007939	EGF pathway	ATC|PDTC
+22007939	EGF pathway	ATC|PDTC
+21725973	EGFR/ERK pathway	ATC
+21725973	EGFR/ERK pathway	ATC
+21725973	EGFR/MAPK pathway	ATC
+22007939	EGFR1 pathway	ATC|PDTC
+22007939	EGFR1 pathway	ATC|PDTC
+24170107	EGFR pathway	ATC
+23569377	Endocytosis	ATC
+11172203	Epstein-Barr virus infection	ATC
+23132790	ERK1/2 pathway	PTC|ATC|PDTC
+23132790	ERK1/2 pathway	PTC|ATC|PDTC
+12519884	ERK1/ERK2 pathway	ATC
+12186496	Eukaryotic Translation Initiation	ATC
+12186496	Eukaryotic Translation Initiation	ATC
+16172195	FAK/paxillin pathway	ATC
+22513979	Focal Adhesion	ATC|PTC|FTC
+22513979	Focal Adhesion	ATC|PTC|FTC
+22513979	Focal Adhesion	ATC|PTC|FTC
+22513979	Focal Adhesion	ATC|PTC|FTC
+19293266	Focal Adhesion	PTC|ATC
+19293266	Focal Adhesion	PTC|ATC
+22513979	Focal Adhesion	ATC|PTC|FTC
+18541361	FoxO pathway	ATC
+9038381	G1 Phase	ATC
+16030158	G1 Phase	ATC
+18541361	G1 Phase	ATC
+18478924	G1 Phase	ATC
+21907187	G1 Phase	ATC
+11453659	G1 Phase	ATC
+18541361	G2 Phase	ATC
+23115614	Glucose metabolism	PTC|ATC
+23055533	Glucose metabolism	ATC
+12667615	Glucose transport	ATC
+12667615	Glucose transport	ATC
+12667615	Glucose transport	ATC
+12667615	Glucose transport	ATC
+12667615	Glucose transport	ATC
+21811634	Glucose transport	ATC
+22228332	Glucose transport	ATC|PDTC
+22228332	Glucose transport	ATC|PDTC
+3155492	Glycolysis	ATC|MTC|PTC|FTC
+3155492	Glycolysis	ATC|MTC|PTC|FTC
+3155492	Glycolysis	ATC|MTC|PTC|FTC
+23115614	Glycolysis	PTC|ATC
+22190384	Glycolysis	ATC
+22190384	Glycolysis	ATC
+22718346	growth factor signaling	ATC
+23860623	Hedgehog (Hh) pathway	ATC
+23860623	Hedgehog (Hh) pathway	ATC
+23860623	Hedgehog (Hh) pathway	ATC
+23860623	Hedgehog (Hh) pathway	ATC
+21637923	IGF‑1-Akt1-GSK3beta-cyclin D1 pathway	ATC
+21637923	IGF-I pathway	ATC
+16899627	IGF-IR pathway	ATC
+9349574	inhibition of matrix metalloproteinases	ATC
+9349574	inhibition of matrix metalloproteinases	ATC
+16410725	intrinsic apoptotic pathway	ATC
+23982257	JNK pathway	ATC
+16571083	JNK pathway	ATC
+16571083	JNK pathway	ATC
+17406368	MAPK/ERK kinase pathway	ATC|PDTC
+23386415	MAPK/ERK pathway	ATC
+19500021	MAPK/ERK pathway	PTC|ATC
+20578891	MAPK pathway	ATC|FTC
+18492751	MAPK pathway	ATC|FTC
+18492751	MAPK pathway	ATC|FTC
+20578891	MAPK pathway	ATC|FTC
+19500021	MAPK pathway	PTC|ATC
+19500021	MAPK pathway	PTC|ATC
+19500021	MAPK pathway	PTC|ATC
+20578891	MAPK pathway	ATC|FTC
+21900390	MAPK pathway	PTC|ATC
+16410725	MAPK pathway	ATC
+23288646	MAPK pathway	PTC|ATC|FTC
+19500021	MAPK pathway	PTC|ATC
+20053778	MAPK pathway	ATC
+17989125	MAPK pathway	ATC|PTC|FTC
+20053778	MAPK pathway	ATC
+16613343	Matrix Metalloproteinases	ATC|PTC|FTC
+16613808	Matrix Metalloproteinases	ATC|PTC|FTC
+20053778	Matrix Metalloproteinases	ATC
+23509868	M Phase	ATC|PDTC
+20219414	M Phase	ATC
+19230027	M Phase	ATC
+19300411	M Phase	ATC
+22399519	M Phase	ATC
+11453659	M Phase	ATC
+11272092	M Phase	ATC
+12679488	M Phase	ATC
+16278386	M Phase	ATC
+2375116	M Phase	ATC|PDTC
+20689131	mTOR pathway	ATC
+20689131	mTOR pathway	ATC
+19723757	mTOR pathway	ATC|PTC|FTC
+20689131	mTOR pathway	ATC
+19723757	mTOR pathway	ATC|PTC|FTC
+19723757	mTOR pathway	ATC|PTC|FTC
+19230027	NF-kB pathway	ATC
+19158360	NF-kB pathway	ATC
+14715879	NF-kB pathway	ATC
+19885592	NF-kB pathway	ATC
+19854299	NF-kB pathway	ATC
+19230027	NF-kB pathway	ATC
+14715879	NF-kB pathway	ATC
+23055533	NF-kB pathway	ATC
+14715879	NF-kB pathway	ATC
+23594881	Notch1 pathway	ATC
+23594881	Notch1 pathway	ATC
+23594881	Notch1 pathway	ATC
+23594881	Notch1 pathway	ATC
+23594881	Notch1 pathway	ATC
+22991264	Notch1 pathway	ATC
+22991264	Notch pathway	ATC
+23594881	Notch pathway	ATC
+16410725	Oxidative Stress	ATC
+16410725	Oxidative Stress	ATC
+22918703	p21 pathway	ATC
+22918703	p21 pathway	ATC
+12495476	p27 cytostatic pathway	ATC
+23055533	p53 pathway	ATC
+19885592	p53 pathway	ATC
+22919068	PI3K/AKT/FOXO3a pathway	ATC
+19638576	PI3K/AKT activation	ATC
+23386415	PI3K/Akt pathway	ATC
+20578891	PI3K/Akt pathway	ATC|FTC
+18492751	PI3K/Akt pathway	ATC|FTC
+18492751	PI3K/Akt pathway	ATC|FTC
+22918703	PI3K/Akt pathway	ATC
+22918703	PI3K/Akt pathway	ATC
+17317825	PI3K/Akt pathway	ATC
+20578891	PI3K/Akt pathway	ATC|FTC
+16777971	PI3K/Akt pathway	ATC
+17989125	PI3K/Akt pathway	ATC|PTC|FTC
+17317825	PI3K/Akt pathway	ATC
+20578891	PI3K/Akt pathway	ATC|FTC
+17317825	PI3K/Akt pathway	ATC
+17317825	PI3K/Akt pathway	ATC
+17317825	PI3K/Akt pathway	ATC
+20578891	PI3K/Akt pathway	ATC|FTC
+20578891	PI3K/Akt pathway	ATC|FTC
+20578891	PI3K/Akt pathway	ATC|FTC
+20578891	PI3K/Akt pathway	ATC|FTC
+20578891	PI3K/Akt pathway	ATC|FTC
+20578891	PI3K/Akt pathway	ATC|FTC
+18492751	PI3K/Akt pathway	ATC|FTC
+18492751	PI3K/Akt pathway	ATC|FTC
+22718346	PI3K/Akt pathway	ATC
+18492751	PI3K/Akt pathway	ATC|FTC
+22918703	PI3K/Akt pathway	ATC
+16288007	PI3K pathway	ATC
+19513966	PI3K pathway	ATC
+22889737	Potassium Channels	ATC
+22889737	Potassium Channels	ATC
+21596819	protein (MAP) kinase pathway	ATC
+15118916	Rb/E2F pathway	PTC|ATC
+15118916	Rb/E2F pathway	PTC|ATC
+15118916	Rb/E2F pathway	PTC|ATC
+18583996	retinoblastoma (RB) pathway	ATC
+21907187	Rho/ROCK-mediated pathway	ATC
+16172195	Rho/ROCK pathway	ATC
+16172195	RhoA/ROCK pathway	ATC
+16172195	Rho geranylgeranylation pathway	ATC
+21811634	RTAMs pathway	ATC
+18492751	RTKs pathway	ATC|FTC
+10815936	S Phase	ATC
+10815936	S Phase	ATC
+17485079	S Phase	ATC
+16030158	S Phase	ATC
+19223553	S Phase	ATC
+18541361	S Phase	ATC
+18478924	S Phase	ATC
+23594881	S Phase	ATC
+18813835	S Phase	ATC|PDTC
+18813835	S Phase	ATC|PDTC
+22919068	S Phase	ATC
+19293266	Src pathway	PTC|ATC
+22586301	Src pathway	PTC|ATC
+22328572	STAT3 pathway	ATC
+17045167	thyroid hormone biosynthesis	ATC
+8538619	thyroid hormone biosynthesis	PTC|ATC|FTC
+17600478	thyroid stimulating hormone (TSH) pathway	ATC
+16030158	thyrotropin pathway	ATC
+8532409	Tight junction	ATC
+22328572	STAT3 pathway	ATC
+22328572	STAT3 pathway	ATC
+19404394	TSH pathway	ATC
+19802013	ubiquitin pathway	ATC
+23055533	ubiquitin-proteasome pathway	ATC
+16849420	ubiquitin-proteasome pathway	ATC|MTC
+17671138	VEGFR-2 pathway	ATC
+17671138	VEGFR-2 phosphorylation pathway	ATC
+17671138	VEGFR pathway	ATC
+17218945	Wnt/beta-catenin pathway	ATC
+17218945	Wnt/beta-catenin pathway	ATC
+16263821	Wnt/beta-catenin pathway	ATC
+16263821	Wnt pathway	ATC
+15650354	Wnt pathway	ATC
+15650354	Wnt pathway	ATC
+15650354	Wnt pathway	ATC
+15650354	Wnt pathway	ATC
+15650354	Wnt pathway	ATC
+15650354	Wnt pathway	ATC

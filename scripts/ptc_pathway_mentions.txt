@@ -1,0 +1,1050 @@
+doc_id	pathway_mention	rb_label
+8957475	cAMP pathway	PTC
+18676742	BRAF/MEK/ERK pathway	PTC
+22136270	Akt pathway	PTC|FTC
+18682509	Akt pathway	PTC
+18682509	Akt pathway	PTC
+15378648	Akt pathway	PTC
+21903858	Akt pathway	PTC
+22253131	ALOX5/MMP9 pathway	PTC
+23904275	AMPK pathway	PTC
+23904275	AMPK pathway	PTC
+11331447	Angiogenesis	PTC
+17374490	Angiogenesis	PTC|FTC
+21503841	Angiogenesis	PTC
+12752224	Angiogenesis	PTC
+19759871	Angiogenesis	PTC
+12533838	Angiogenesis	PTC
+15041723	Angiogenesis	PTC
+14555660	Angiogenesis	PTC
+8291446	Angiogenesis	PTC
+22369326	Angiogenesis	HCTC|PTC|FTC
+22530159	Angiogenesis	PTC|FTC
+16859137	Angiogenesis	PTC
+16859137	Angiogenesis	PTC
+16859137	Angiogenesis	PTC
+15693548	Angiogenesis	PTC
+21042739	Angiogenesis	PTC
+22432054	Angiogenesis	PTC
+9068103	Angiogenesis	PTC
+15690202	Angiogenesis	PTC
+18597952	Angiogenesis	PTC
+10821490	Angiogenesis	PTC
+10821490	Angiogenesis	PTC
+17219991	Angiogenesis	PTC|FTC
+17219991	Angiogenesis	PTC|FTC
+17219991	Angiogenesis	PTC|FTC
+21167375	Angiogenesis	PTC|FTC
+21214962	Angiogenesis	PTC
+12006528	Angiogenesis	PTC
+9769366	Angiogenesis	PTC
+9769366	Angiogenesis	PTC
+23718885	Angiogenesis	PTC
+22649416	Angiogenesis	PTC
+12947323	Angiogenesis	PTC
+19258410	Angiogenesis	MTC|PTC|FTC
+15338719	Angiogenesis	PTC|FTC
+23898059	Angiogenesis	PTC|FTC
+22711876	Angiogenesis	PTC
+22711876	Angiogenesis	PTC
+22711876	Angiogenesis	PTC
+22711876	Angiogenesis	PTC
+22711876	Angiogenesis	PTC
+22078085	Angiogenesis	MTC|PTC|FTC
+18661355	Angiogenesis	PTC|FTC
+18583418	Angiogenesis	PTC
+15475935	Angiogenesis	PTC
+20142332	Angiogenesis	PTC|FTC
+20142332	Angiogenesis	PTC|FTC
+23528368	Angiogenesis	PTC
+20473281	Angiogenesis	PTC
+21897114	Angiogenesis	PTC
+21339735	Angiogenesis	PTC
+21339735	Angiogenesis	PTC
+15962085	Angiogenesis	PTC
+15962085	Angiogenesis	PTC
+21400522	Angiogenesis	PTC
+20205098	Angiogenesis	PTC|FTC
+10821490	Angiogenesis	PTC
+12006528	Angiogenesis	PTC
+9769366	Angiogenesis	PTC
+15962085	Angiogenesis	PTC
+15962085	Angiogenesis	PTC
+22120515	Apoptosis	PTC
+22120515	Apoptosis	PTC
+20629553	Apoptosis	PTC
+20955590	Apoptosis	PTC
+19825987	Apoptosis	PTC
+19825987	Apoptosis	PTC
+19825987	Apoptosis	PTC
+19825987	Apoptosis	PTC
+19825987	Apoptosis	PTC
+15475567	Apoptosis	ATC|MTC|PTC|FTC
+15475567	Apoptosis	ATC|MTC|PTC|FTC
+15475567	Apoptosis	ATC|MTC|PTC|FTC
+15475567	Apoptosis	ATC|MTC|PTC|FTC
+15475567	Apoptosis	ATC|MTC|PTC|FTC
+16438077	Apoptosis	PTC
+23231932	Apoptosis	PTC|ATC
+23231932	Apoptosis	PTC|ATC
+23231932	Apoptosis	PTC|ATC
+23231932	Apoptosis	PTC|ATC
+11704822	Apoptosis	PTC
+20804548	Apoptosis	PTC
+21503841	Apoptosis	PTC
+21503841	Apoptosis	PTC
+15886500	Apoptosis	PTC
+18648806	Apoptosis	PTC|FTC
+18648806	Apoptosis	PTC|FTC
+18648806	Apoptosis	PTC|FTC
+21642358	Apoptosis	PTC
+16613343	Apoptosis	ATC|PTC|FTC
+18409152	Apoptosis	PTC|FTC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+23821365	Apoptosis	PTC|ATC
+21478229	Apoptosis	PTC
+21478229	Apoptosis	PTC
+18581271	Apoptosis	PTC
+12187333	Apoptosis	PTC
+12187333	Apoptosis	PTC
+12187333	Apoptosis	PTC
+20972735	Apoptosis	PTC
+15781663	Apoptosis	PTC
+15781663	Apoptosis	PTC
+15781663	Apoptosis	PTC
+18327775	Apoptosis	PTC
+18327775	Apoptosis	PTC
+19380355	Apoptosis	PTC
+11889175	Apoptosis	PTC
+11889192	Apoptosis	PTC|FTC
+11889192	Apoptosis	PTC|FTC
+11889192	Apoptosis	PTC|FTC
+11889192	Apoptosis	PTC|FTC
+15756057	Apoptosis	PTC
+17188145	Apoptosis	PTC|FTC
+22654559	Apoptosis	PTC|FTC
+16728577	Apoptosis	PTC
+17156473	Apoptosis	PTC
+21949582	Apoptosis	PTC
+21949582	Apoptosis	PTC
+15258907	Apoptosis	PTC
+15258907	Apoptosis	PTC
+15258907	Apoptosis	PTC
+15258907	Apoptosis	PTC
+15258907	Apoptosis	PTC
+16613808	Apoptosis	ATC|PTC|FTC
+22293278	Apoptosis	PTC
+9068103	Apoptosis	PTC
+9068103	Apoptosis	PTC
+9068103	Apoptosis	PTC
+9068103	Apoptosis	PTC
+23264400	Apoptosis	PTC
+23264400	Apoptosis	PTC
+22586301	Apoptosis	PTC|ATC
+22586301	Apoptosis	PTC|ATC
+22993562	Apoptosis	PTC
+20736296	Apoptosis	PTC
+16531921	Apoptosis	PTC|FTC
+16531921	Apoptosis	PTC|FTC
+16531921	Apoptosis	PTC|FTC
+16531921	Apoptosis	PTC|FTC
+16531921	Apoptosis	PTC|FTC
+16531921	Apoptosis	PTC|FTC
+21643629	Apoptosis	PTC|FTC
+21214962	Apoptosis	PTC
+16350729	Apoptosis	PTC
+24220341	Apoptosis	PTC
+24220341	Apoptosis	PTC
+24220341	Apoptosis	PTC
+24220341	Apoptosis	PTC
+24220341	Apoptosis	PTC
+20587665	Apoptosis	PTC
+15947106	Apoptosis	PTC
+17891237	Apoptosis	PTC
+15940252	Apoptosis	PTC
+15940252	Apoptosis	PTC
+23236561	Apoptosis	PTC|FTC
+19014326	Apoptosis	PTC|FTC
+19014326	Apoptosis	PTC|FTC
+17174366	Apoptosis	PTC|FTC
+17174366	Apoptosis	PTC|FTC
+17174366	Apoptosis	PTC|FTC
+23457043	Apoptosis	PTC
+23457043	Apoptosis	PTC
+23457043	Apoptosis	PTC
+23457043	Apoptosis	PTC
+14712216	Apoptosis	PTC
+14712216	Apoptosis	PTC
+14712216	Apoptosis	PTC
+18085520	Apoptosis	PTC|ATC
+18085520	Apoptosis	PTC|ATC
+22438958	Apoptosis	PTC|FTC
+22438958	Apoptosis	PTC|FTC
+22438958	Apoptosis	PTC|FTC
+23414714	Apoptosis	PTC
+23414714	Apoptosis	PTC
+12733712	Apoptosis	PTC
+24171036	Apoptosis	PTC|FTC
+22113498	Apoptosis	PTC
+22113498	Apoptosis	PTC
+22113498	Apoptosis	PTC
+22113498	Apoptosis	PTC
+21879253	Apoptosis	PTC
+19723757	Apoptosis	ATC|PTC|FTC
+9052406	Apoptosis	PTC
+16432709	Apoptosis	PTC
+21180995	Apoptosis	PTC
+23790177	Apoptosis	PTC|FTC
+23790177	Apoptosis	PTC|FTC
+23790177	Apoptosis	PTC|FTC
+23790177	Apoptosis	PTC|FTC
+23790177	Apoptosis	PTC|FTC
+23790177	Apoptosis	PTC|FTC
+23790177	Apoptosis	PTC|FTC
+24342307	Apoptosis	PTC
+14534528	Apoptosis	PTC
+14534528	Apoptosis	PTC
+22944270	Apoptosis	PTC
+19683979	Apoptosis	PTC|ATC
+19683979	Apoptosis	PTC|ATC
+19683979	Apoptosis	PTC|ATC
+19683979	Apoptosis	PTC|ATC
+17947359	Apoptosis	PTC
+11059731	Apoptosis	PTC|ATC
+21249150	Apoptosis	PTC
+22049175	Apoptosis	PTC
+22049175	Apoptosis	PTC
+23261982	Apoptosis	PTC
+19355825	Apoptosis	PTC
+19355825	Apoptosis	PTC
+20615140	Apoptosis	PTC
+23828865	Apoptosis	MTC|PTC|FTC
+17355635	Apoptosis	PTC
+23645777	Apoptosis	PTC
+12907632	Apoptosis	PTC
+18676765	Apoptosis	PTC
+24199968	Apoptosis	PTC
+21049466	Apoptosis	PTC
+24081676	Apoptosis	PTC
+24081676	Apoptosis	PTC
+24081676	Apoptosis	PTC
+19513551	Apoptosis	PTC
+23533107	Apoptosis	PTC
+21270757	Apoptosis	PTC
+24124924	Apoptosis	PTC
+23729178	Apoptosis	PTC
+22477067	Apoptosis	ATC|PDTC|PTC|FTC
+22477067	Apoptosis	ATC|PDTC|PTC|FTC
+22477067	Apoptosis	ATC|PDTC|PTC|FTC
+17598974	Apoptosis	PTC
+17598974	Apoptosis	PTC
+23056499	Apoptosis	PTC|MTC
+16080480	Apoptosis	PTC
+16080480	Apoptosis	PTC
+12921612	Apoptosis	PTC
+12921612	Apoptosis	PTC
+12921612	Apoptosis	PTC
+12921612	Apoptosis	PTC
+18604733	Apoptosis	PTC
+18604733	Apoptosis	PTC
+19124005	Apoptosis	PTC
+19124005	Apoptosis	PTC
+19124005	Apoptosis	PTC
+18985036	Apoptosis	PTC
+12933692	Apoptosis	PTC
+12933692	Apoptosis	PTC
+12933692	Apoptosis	PTC
+12933692	Apoptosis	PTC
+12933692	Apoptosis	PTC
+12933692	Apoptosis	PTC
+10566680	Apoptosis	PTC
+20008098	Apoptosis	PTC
+18682509	Apoptosis	PTC
+18682509	Apoptosis	PTC
+18682509	Apoptosis	PTC
+23231932	Apoptosis	PTC|ATC
+22438958	Apoptosis	PTC|FTC
+9052406	Apoptosis	PTC
+22049175	Apoptosis	PTC
+24124924	Apoptosis	PTC
+22477067	Apoptosis	ATC|PDTC|PTC|FTC
+18604733	Apoptosis	PTC
+12933692	Apoptosis	PTC
+12933692	Apoptosis	PTC
+10438545	Apoptosis	PTC|FTC
+23520464	Arachidonic acid metabolism	PTC
+18779313	BER pathway	PTC|FTC
+19223551	beta-catenin pathway	PTC
+23255945	BMP pathway	PTC
+12782592	Bone morphogenetic proteins pathway	PTC|FTC
+18390987	bone remodeling	PTC|FTC
+22993650	BRAF/MAPK pathway	PTC
+18676742	BRAF/MEK/ERK pathway	PTC
+17317846	BRAF/MEK/MAPK pathway	PTC
+17317846	BRAF/MEK/MAPK pathway	PTC
+20473281	BRAF(V600E)-mediated pathway	PTC
+19200582	BRAF kinase pathway	PTC|FTC
+18697864	BRAF kinase pathway	PTC|FTC
+18697864	BRAF kinase pathway	PTC|FTC
+23893334	BRAF pathway	PTC
+23000762	BRAF pathway	PTC
+15980887	BRAF pathway	PTC
+18426810	BRAF pathway	PTC|FTC
+17535994	BRAF pathway	PTC
+24399106	BRAF pathway	PTC|FTC
+21321384	BRAFV600E/ERK1/2 pathway	PTC
+21479404	cAMP pathway	PTC
+9062474	cAMP pathway	PDTC|PTC|FTC
+21479404	cAMP pathway	PTC
+21479404	cAMP pathway	PTC
+21479404	cAMP pathway	PTC
+21220306	cAMP pathway	PTC
+23145146	cAMP pathway	PTC
+21479404	cAMP pathway	PTC
+24124924	caspase pathway	PTC
+21503841	caspase pathway	PTC
+15806164	cell-cell pathway	PTC|HCTC
+15947106	cell-cell pathway	PTC
+20629553	Cell cycle	PTC
+12943231	Cell cycle	PTC
+19190121	Cell cycle	PTC|FTC
+21605002	Cell cycle	PTC|FTC
+21605002	Cell cycle	PTC|FTC
+21642358	Cell cycle	PTC
+14735186	Cell cycle	PTC
+11007042	Cell cycle	PTC
+19956384	Cell cycle	PTC
+19956384	Cell cycle	PTC
+18925698	Cell cycle	PTC
+15041723	Cell cycle	PTC
+24002705	Cell cycle	PTC
+24002705	Cell cycle	PTC
+21956418	Cell cycle	PTC|FTC
+12610352	Cell cycle	PTC
+19380355	Cell cycle	PTC
+15929668	Cell cycle	PTC
+15118916	Cell cycle	PTC|ATC
+17188145	Cell cycle	PTC|FTC
+20627053	Cell cycle	PTC
+20627053	Cell cycle	PTC
+19194115	Cell cycle	PTC
+19194115	Cell cycle	PTC
+19194115	Cell cycle	PTC
+19194115	Cell cycle	PTC
+18828274	Cell cycle	PTC
+22586301	Cell cycle	PTC|ATC
+15172989	Cell cycle	PTC
+10980597	Cell cycle	PTC
+15947106	Cell cycle	PTC
+17703498	Cell cycle	PTC
+12894512	Cell cycle	PTC
+22204713	Cell cycle	PTC
+17882495	Cell cycle	PTC|FTC
+17882495	Cell cycle	PTC|FTC
+23023232	Cell cycle	PTC
+23023232	Cell cycle	PTC
+12947323	Cell cycle	PTC
+19356627	Cell cycle	PTC
+19356627	Cell cycle	PTC
+21879253	Cell cycle	PTC
+15709169	Cell cycle	PTC
+15709169	Cell cycle	PTC
+15709169	Cell cycle	PTC
+18583418	Cell cycle	PTC
+21249150	Cell cycle	PTC
+19461157	Cell cycle	PTC
+20615140	Cell cycle	PTC
+20615140	Cell cycle	PTC
+20615140	Cell cycle	PTC
+20615140	Cell cycle	PTC
+20615140	Cell cycle	PTC
+16259106	Cell cycle	PTC|FTC
+18676765	Cell cycle	PTC
+21049466	Cell cycle	PTC
+19818763	Cell cycle	PTC
+23412977	Cell cycle	PTC
+24081676	Cell cycle	PTC
+24081676	Cell cycle	PTC
+22688732	Cell cycle	PTC|ATC
+22688732	Cell cycle	PTC|ATC
+22688732	Cell cycle	PTC|ATC
+22688732	Cell cycle	PTC|ATC
+22688732	Cell cycle	PTC|ATC
+21220347	Cell cycle	PTC
+17693985	Cell cycle	PTC
+9949353	Cell cycle	PTC
+14568170	Cell cycle	PTC|FTC
+14568170	Cell cycle	PTC|FTC
+22477067	Cell cycle	ATC|PDTC|PTC|FTC
+22477067	Cell cycle	ATC|PDTC|PTC|FTC
+22477067	Cell cycle	ATC|PDTC|PTC|FTC
+17914108	Cell cycle	PTC
+17914108	Cell cycle	PTC
+17914108	Cell cycle	PTC
+17914108	Cell cycle	PTC
+18985036	Cell cycle	PTC
+18682509	Cell cycle	PTC
+15142440	Cell cycle	PTC
+15142440	Cell cycle	PTC
+15142440	Cell cycle	PTC
+19194115	Cell cycle	PTC
+17882495	Cell cycle	PTC|FTC
+21725210	Cell cycle	PTC
+19060924	Cell cycle	PTC
+23231932	Cell cycle	PTC|ATC
+20172376	Cell cycle	PTC
+20172376	Cell cycle	PTC
+20172376	Cell cycle	PTC
+20172376	Cell cycle	PTC
+15258907	Cell cycle	PTC
+22586301	Cell cycle	PTC|ATC
+21831957	Cell cycle	MTC|PTC|FTC
+18766473	Cell cycle	PTC
+21874046	Cell cycle	PTC
+12114790	Cell cycle	PTC
+12114790	Cell cycle	PTC
+12114790	Cell cycle	PTC
+23861775	Cell cycle	PTC
+23231932	Cell cycle	PTC|ATC
+15179755	Chemical carcinogenesis	PTC|FTC
+17621275	c-jun N-terminal kinase pathway	PTC
+23457043	NF-kB pathway	PTC
+23162534	class II MHC pathway	PTC|FTC
+22113498	c-Met/AKT pathway	PTC
+22113498	c-Met/AKT pathway	PTC
+23520464	Coagulation pathway	PTC
+23520464	Coagulation pathway	PTC
+10583556	Collagen formation	PTC
+21383698	MAPK pathway	PTC|PDTC
+15184868	CXCR4/SDF-1alpha receptor-lig pathway	PTC
+15671779	cAMP pathway	PTC
+18474871	cytokine pathway	PTC
+21605002	Cytokinesis	PTC|FTC
+23337621	Cytokinesis	FTC|PTC
+23337621	Cytokinesis	FTC|PTC
+16676402	Cytokinesis	PTC|PDTC
+23790177	Cytokinesis	PTC|FTC
+15886755	Cytokinesis	PTC|FTC
+15886755	Cytokinesis	PTC|FTC
+20629553	MEK/ERK pathway	PTC
+15041723	DNA damage response	PTC
+19092295	DNA damage response	PTC
+19286843	DNA damage response	PTC
+19286843	DNA damage response	PTC
+19286843	DNA damage response	PTC
+24004175	DNA damage response	PTC
+19191745	DNA Repair	PTC|FTC
+23183621	DNA Repair	PTC|FTC
+19350799	DNA Repair	PTC
+18648806	DNA Repair	PTC|FTC
+18648806	DNA Repair	PTC|FTC
+21642358	DNA Repair	PTC
+21860547	DNA Repair	PTC
+21606360	DNA Repair	PTC
+20660387	DNA Repair	PTC|FTC
+20660387	DNA Repair	PTC|FTC
+19092295	DNA Repair	PTC
+19092295	DNA Repair	PTC
+19092295	DNA Repair	PTC
+19092295	DNA Repair	PTC
+19092295	DNA Repair	PTC
+21414327	DNA Repair	PTC|FTC
+21414327	DNA Repair	PTC|FTC
+21414327	DNA Repair	PTC|FTC
+21414327	DNA Repair	PTC|FTC
+10838496	DNA Repair	PTC
+18470905	DNA Repair	PTC
+18470905	DNA Repair	PTC
+18470905	DNA Repair	PTC
+24171036	DNA Repair	PTC|FTC
+21987112	DNA Repair	PTC|FTC
+21987112	DNA Repair	PTC|FTC
+11059731	DNA Repair	PTC|ATC
+21049466	DNA Repair	PTC
+12127404	DNA Repair	PTC
+10607373	DNA Repair	PTC
+22136207	DNA Repair	PTC|FTC
+23022340	DNA Repair	PTC|FTC
+23022340	DNA Repair	PTC|FTC
+23183621	DNA Repair	PTC|FTC
+22586128	DNA replication	PTC
+19145676	DNA replication	PTC
+21998631	DNA replication	PTC|MTC
+8528355	DNA replication	PTC
+23821456	DNA replication	PTC|FTC
+19818763	DNA replication	PTC
+23162534	DNA replication	PTC|FTC
+21998631	DNA replication	PTC|MTC
+24105688	Double-Strand Break Repair	PTC
+15933498	Double-Strand Break Repair	PTC|FTC
+15933498	Double-Strand Break Repair	PTC|FTC
+21220347	MET pathway	PTC
+23261982	E-cadherin pathway	PTC
+23261982	E-cadherin pathway	PTC
+23520464	eicosanoid pathway	PTC
+22376167	Energy Metabolism	PTC
+22993562	Epigenetic mechanisms pathway	PTC
+20372779	ERalpha pathway	PTC|FTC
+20372779	ERbeta transcriptional pathway	PTC|FTC
+23132790	ERK1/2 pathway	PTC|ATC|PDTC
+23132790	ERK1/2 pathway	PTC|ATC|PDTC
+19903742	ERK activation	PTC
+19903742	ERK activation	PTC
+15761501	ERK activation	PTC
+21750869	ERK activation	PTC
+21470995	ERK activation	PTC|MTC
+21470995	ERK activation	PTC|MTC
+16551863	ERK activation	PTC
+19903742	Erk pathway	PTC
+21831957	Erk pathway	MTC|PTC|FTC
+22823995	Erk pathway	PTC
+19903742	Erk pathway	PTC
+19223551	Erk pathway	PTC
+23000762	Erk pathway	PTC
+24156385	Estrogen metabolism	PTC
+24156385	Estrogen metabolism	PTC
+24156385	Estrogen metabolism	PTC
+19903742	Erk pathway	PTC
+21191179	FAK/PI3K/Akt pathway	PTC
+21191179	FAK/PI3K/Akt pathway	PTC
+21191179	FAK/PI3K/Akt pathway	PTC
+12933692	Fas pathway	PTC
+19594419	Fas pathway	PTC|FTC
+10566680	Fas pathway	PTC
+22136817	Fatty acid biosynthesis	PTC
+21998631	Focal Adhesion	PTC|MTC
+20955590	Focal Adhesion	PTC
+22513979	Focal Adhesion	ATC|PTC|FTC
+22513979	Focal Adhesion	ATC|PTC|FTC
+22513979	Focal Adhesion	ATC|PTC|FTC
+22513979	Focal Adhesion	ATC|PTC|FTC
+21998631	Focal Adhesion	PTC|MTC
+19293266	Focal Adhesion	PTC|ATC
+19293266	Focal Adhesion	PTC|ATC
+22513979	Focal Adhesion	ATC|PTC|FTC
+22049175	FoxM1 pathway	PTC
+20629553	G1 Phase	PTC
+21478229	G1 Phase	PTC
+17693985	G1 Phase	PTC
+23861775	G2 Phase	PTC
+17914110	Gap junction	PTC
+21875346	Gap junction	PTC
+21875346	Gap junction	PTC
+6616422	Gap junction	PTC
+21875346	Gap junction	PTC
+18191019	Gap junction	PTC|FTC
+19784728	glioma pathway	PTC
+22031513	GLP-1 pathway	PTC|MTC
+18806930	Glucose metabolism	PTC|FTC
+24102584	Glucose metabolism	PTC|FTC
+23115614	Glucose metabolism	PTC|ATC
+19433487	Glucose metabolism	PTC|FTC
+7562053	Glucose metabolism	PTC
+7675641	Glucose metabolism	PTC|FTC
+23688271	Glucose metabolism	PTC
+17268018	Glucose metabolism	PTC|FTC
+20473281	Glucose metabolism	PTC
+20017617	Glucose transport	PTC|FTC
+16944537	Glucose transport	PTC
+14715833	Glucose transport	PTC|FTC
+22376167	Glucose transport	PTC
+22376167	Glucose transport	PTC
+17488796	Glucose transport	PTC
+21606885	Glucose transport	PTC
+22888973	Glucose transport	PTC
+22888973	Glucose transport	PTC
+19014326	Glucose transport	PTC|FTC
+22248072	Glucose transport	PTC|FTC
+23407367	Glucose transport	PTC|FTC
+23688271	Glucose transport	PTC
+16944537	Glucose transport	PTC
+18509003	Glucose transport	PTC
+17667446	Glucose transport	PTC|FTC
+23722225	Glucose transport	PTC|FTC
+16273245	Glucose transport	PTC|FTC
+16273245	Glucose transport	PTC|FTC
+21317830	Glucuronidation	PTC|FTC
+21317830	Glucuronidation	PTC|FTC
+20017617	Glycolysis	PTC|FTC
+3155492	Glycolysis	ATC|MTC|PTC|FTC
+3155492	Glycolysis	ATC|MTC|PTC|FTC
+3155492	Glycolysis	ATC|MTC|PTC|FTC
+23115614	Glycolysis	PTC|ATC
+23846818	Glycolysis	PTC
+23846818	Glycolysis	PTC
+23846818	Glycolysis	PTC
+14715833	Glycolysis	PTC|FTC
+12738763	growth factor signaling	PTC
+20797751	Hedgehog (Hh) pathway	PTC|FTC
+20797751	Hedgehog (Hh) pathway	PTC|FTC
+20797751	Hedgehog (Hh) pathway	PTC|FTC
+20797751	Hedgehog (Hh) pathway	PTC|FTC
+20797751	Hedgehog (Hh) pathway	PTC|FTC
+20797751	Hedgehog (Hh) pathway	PTC|FTC
+19657751	HIV Infection	PTC
+15258907	HO-1 pathway	PTC
+24240178	homolog B1 pathway	MTC|PTC|FTC
+19092295	Homologous recombination	PTC
+17712314	Homologous recombination	PTC
+22481871	Homologous recombination	PTC|FTC
+24377596	Homologous recombination	PTC|FTC
+21414327	Homologous Recombination Repair	PTC|FTC
+24377596	Homologous Recombination Repair	PTC|FTC
+23022340	Homologous Recombination Repair	PTC|FTC
+22224819	hormone pathway	PTC
+22224819	hormone pathway	PTC
+22224819	hormone pathway	PTC
+22415807	IGF pathway	PTC|FTC
+17621275	IGF pathway	PTC
+24094449	MAPK/ERK feedback pathway	PTC
+17296934	Integrin pathway	PTC
+23056499	JAK/STAT3 pathway	PTC|MTC
+22744707	MAPK/ERK pathway	PTC
+22654559	MAPK/ERK pathway	PTC|FTC
+22583421	MAPK/ERK pathway	PTC|FTC
+22158616	MAPK/ERK pathway	PTC
+24094449	MAPK/ERK pathway	PTC
+24094449	MAPK/ERK pathway	PTC
+24094449	MAPK/ERK pathway	PTC
+24094449	MAPK/ERK pathway	PTC
+22426956	MAPK/ERK pathway	PTC
+24094449	MAPK/ERK pathway	PTC
+19500021	MAPK/ERK pathway	PTC|ATC
+18000091	MAPK pathway	PTC
+20564403	MAPK pathway	PTC|FTC
+20473281	MAPK pathway	PTC
+23544172	MAPK pathway	PTC
+18697864	MAPK pathway	PTC|FTC
+17174366	MAPK pathway	PTC|FTC
+17174366	MAPK pathway	PTC|FTC
+16896265	MAPK pathway	PTC
+16896265	MAPK pathway	PTC
+17689531	MAPK pathway	PTC
+16501605	MAPK pathway	PTC
+15613458	MAPK pathway	PTC
+16708643	MAPK pathway	PTC
+14508525	MAPK pathway	PTC
+15378648	MAPK pathway	PTC
+15689324	MAPK pathway	PTC
+17415708	MAPK pathway	PTC
+17415708	MAPK pathway	PTC
+18018555	MAPK pathway	PTC
+17317846	MAPK pathway	PTC
+17317846	MAPK pathway	PTC
+17317846	MAPK pathway	PTC
+22105775	MAPK pathway	PTC
+22078085	MAPK pathway	MTC|PTC|FTC
+15630436	MAPK pathway	PTC
+19107232	MAPK pathway	PTC
+21479404	MAPK pathway	PTC
+19725779	MAPK pathway	PTC
+18225562	MAPK pathway	PTC
+19500021	MAPK pathway	PTC|ATC
+21479404	MAPK pathway	PTC
+12970315	MAPK pathway	PTC
+23544172	MAPK pathway	PTC
+19370505	MAPK pathway	PTC
+19500021	MAPK pathway	PTC|ATC
+19500021	MAPK pathway	PTC|ATC
+17199737	MAPK pathway	PTC
+18697864	MAPK pathway	PTC|FTC
+22150560	MAPK pathway	PTC
+22870129	MAPK pathway	PTC
+11889192	MAPK pathway	PTC|FTC
+22930660	MAPK pathway	PTC
+20564403	MAPK pathway	PTC|FTC
+22654872	MAPK pathway	PTC
+16407496	MAPK pathway	PTC
+21903858	MAPK pathway	PTC
+17940185	MAPK pathway	PTC
+23218882	MAPK pathway	PTC|FTC
+16299399	MAPK pathway	PTC
+18948674	MAPK pathway	PTC
+18948674	MAPK pathway	PTC
+19356676	MAPK pathway	PTC
+19725779	MAPK pathway	PTC
+22858857	MAPK pathway	PTC
+23544172	MAPK pathway	PTC
+23544172	MAPK pathway	PTC
+21479404	MAPK pathway	PTC
+21479404	MAPK pathway	PTC
+21479404	MAPK pathway	PTC
+19040996	MAPK pathway	PTC
+16946010	MAPK pathway	PTC
+19956384	MAPK pathway	PTC
+22752848	MAPK pathway	PTC
+22823995	MAPK pathway	PTC
+16896265	MAPK pathway	PTC
+16299399	MAPK pathway	PTC
+21725210	MAPK pathway	PTC
+17186541	MAPK pathway	PTC
+22823995	MAPK pathway	PTC
+20230995	MAPK pathway	PTC
+17199737	MAPK pathway	PTC
+22150560	MAPK pathway	PTC
+21049459	MAPK pathway	PTC
+22007921	MAPK pathway	PTC
+21900390	MAPK pathway	PTC|ATC
+16551863	MAPK pathway	PTC
+23544999	MAPK pathway	PTC
+21479404	MAPK pathway	PTC
+19627734	MAPK pathway	PTC
+19627734	MAPK pathway	PTC
+22551618	MAPK pathway	PTC
+23806056	MAPK pathway	PTC
+22863493	MAPK pathway	PTC
+19356676	MAPK pathway	PTC
+23288646	MAPK pathway	PTC|ATC|FTC
+21316205	MAPK pathway	PTC
+19898969	MAPK pathway	PTC|FTC
+19500021	MAPK pathway	PTC|ATC
+23404751	MAPK pathway	PTC|FTC
+17989125	MAPK pathway	ATC|PTC|FTC
+16818623	MAPK pathway	PTC
+18757433	MAPK pathway	PTC
+16613343	Matrix Metalloproteinases	ATC|PTC|FTC
+21086628	Matrix Metalloproteinases	PTC
+21086628	Matrix Metalloproteinases	PTC
+16613808	Matrix Metalloproteinases	ATC|PTC|FTC
+20193458	Matrix Metalloproteinases	PTC|FTC
+20193458	Matrix Metalloproteinases	PTC|FTC
+18664479	Matrix Metalloproteinases	PTC|FTC
+19863615	Matrix Metalloproteinases	PTC
+22253131	Matrix Metalloproteinases	PTC
+17940185	Matrix Metalloproteinases	PTC
+18774544	Matrix Metalloproteinases	PTC|FTC
+23467939	Matrix Metalloproteinases	PTC
+22049175	Matrix Metalloproteinases	PTC
+15946492	Matrix Metalloproteinases	PTC
+15946492	Matrix Metalloproteinases	PTC
+11253113	Matrix Metalloproteinases	PTC
+12001695	Matrix Metalloproteinases	PTC
+17008280	Matrix Metalloproteinases	PTC
+9927064	Matrix Metalloproteinases	PTC
+22820140	Matrix Metalloproteinases	PTC
+11253113	Matrix Metalloproteinases	PTC
+22049175	Matrix Metalloproteinases	PTC
+23177617	BMP-9-induced osteogenic pathway	PTC
+20629553	MEK/ERK pathway	PTC
+20629553	MEK/ERK pathway	PTC
+21725210	MEK/ERK pathway	PTC
+14555660	MEK/ERK pathway	PTC
+16601293	MEK/ERK pathway	PTC
+16601293	MEK/ERK pathway	PTC
+20877637	MEK/ERK pathway	PTC
+19861538	MEK/ERK pathway	PTC
+23000762	MEK/ERK pathway	PTC
+21750869	MEK/ERK pathway	PTC
+17317846	MEK/MAPK pathway	PTC
+24297791	MetaCore immune function pathway	PTC
+15767811	MET pathway	PTC|FTC
+20450746	Mismatch repair	PTC
+20450746	Mismatch repair	PTC
+16818623	Mitochondrial Electron Transport Chain	PTC
+1978945	M Phase	PTC|FTC|MTC
+19356627	M Phase	PTC
+10760768	M Phase	PTC
+11314023	mRNA Processing	PTC
+8640758	mRNA Splicing	PTC
+21249150	MST1 pathway	PTC
+21249150	MST1 pathway	PTC
+21249150	MST1 pathway	PTC
+21249150	MST1 pathway	PTC
+21822208	MTOR complex 1 pathway	PTC
+22136849	mTOR pathway	PTC|MTC
+22136849	mTOR pathway	PTC|MTC
+22136849	mTOR pathway	PTC|MTC
+22136849	mTOR pathway	PTC|MTC
+22136849	mTOR pathway	PTC|MTC
+23828865	mTOR pathway	MTC|PTC|FTC
+21822208	mTOR pathway	PTC
+19723757	mTOR pathway	ATC|PTC|FTC
+21831957	mTOR pathway	MTC|PTC|FTC
+21822208	mTOR pathway	PTC
+19723757	mTOR pathway	ATC|PTC|FTC
+19723757	mTOR pathway	ATC|PTC|FTC
+23520464	NF-kB pathway	PTC
+24405857	NF-kB pathway	PTC|FTC
+23528368	NF-kB pathway	PTC
+23183621	Non-homologous end-joining	PTC|FTC
+19092295	Non-homologous end-joining	PTC
+19190121	Notch1 pathway	PTC|FTC
+19190121	Notch1 pathway	PTC|FTC
+23544172	Notch pathway	PTC
+23544172	Notch pathway	PTC
+23544172	Notch pathway	PTC
+23544172	Notch pathway	PTC
+23544172	Notch pathway	PTC
+23544172	Notch pathway	PTC
+23544172	Notch pathway	PTC
+23544172	Notch pathway	PTC
+23766517	Nrf2 pathway	PTC
+23766517	Nrf2 pathway	PTC
+23982724	Nucleotide excision repair	PTC|FTC
+23982724	Nucleotide excision repair	PTC|FTC
+23982724	Nucleotide excision repair	PTC|FTC
+21512141	BRAF pathway	PTC
+21220347	MET pathway	PTC
+12187333	Oxidative phosphorylation	PTC
+22136817	Oxidative phosphorylation	PTC
+20204550	Oxidative Stress	PTC
+23766517	Oxidative Stress	PTC
+12187333	Oxidative Stress	PTC
+12187333	Oxidative Stress	PTC
+19375609	Oxidative Stress	PTC|FTC
+16868055	Oxidative Stress	PTC|FTC
+16868055	Oxidative Stress	PTC|FTC
+16868055	Oxidative Stress	PTC|FTC
+19014326	Oxidative Stress	PTC|FTC
+22389382	Oxidative Stress	PTC
+20424115	Oxidative Stress	PTC
+9774495	Oxidative Stress	PTC|FTC
+9848725	p55 pathway	PTC
+9848725	p75 TNF-alpha receptor pathway	PTC
+24399106	PDGF pathway	PTC|FTC
+21653734	PDGF pathway	PTC
+21321384	phospho-ERK1/2 pathway	PTC
+21321384	phospho-MEK1/2 pathway	PTC
+22847364	phospho-SMAD pathway	PTC
+24220341	PI3K/Akt/Bad pathway	PTC
+24220341	PI3K/Akt/Bad pathway	PTC
+24220341	PI3K/Akt/Bad pathway	PTC
+20877637	PI3K/AKT activation	PTC
+20186503	PI3K/Akt-mediated pathway	PTC
+22744707	PI3K/Akt pathway	PTC
+22654559	PI3K/Akt pathway	PTC|FTC
+22583421	PI3K/Akt pathway	PTC|FTC
+22158616	PI3K/Akt pathway	PTC
+18000091	PI3K/Akt pathway	PTC
+20008098	PI3K/Akt pathway	PTC
+17989125	PI3K/Akt pathway	ATC|PTC|FTC
+18000091	PI3K/Akt pathway	PTC
+20186503	PI3K/Akt pathway	PTC
+20186503	PI3K/Akt pathway	PTC
+23293329	PI3K/Akt pathway	PTC
+20008098	PI3K/Akt pathway	PTC
+20186503	PI3K/Akt pathway	PTC
+20186503	PI3K/Akt pathway	PTC
+20008098	PI3K/Akt pathway	PTC
+22993562	PI3K/Akt pathway	PTC
+20186503	PI3K/Akt pathway	PTC
+19124005	PI3K/Akt pathway	PTC
+20564403	PI3K/Akt pathway	PTC|FTC
+21750869	PI3K/Akt pathway	PTC
+20008098	PI3K/Akt pathway	PTC
+21407159	PI3K/PTEN/Akt pathway	PTC
+21831957	PI3K pathway	MTC|PTC|FTC
+20564403	PI3K pathway	PTC|FTC
+20473281	PI3K pathway	PTC
+20804548	PI3K pathway	PTC
+22583421	PI3K pathway	PTC|FTC
+22654559	PI3K pathway	PTC|FTC
+19060924	PI3K pathway	PTC
+21831957	PI3K pathway	MTC|PTC|FTC
+21831957	PI3K pathway	MTC|PTC|FTC
+20372779	PI3K pathway	PTC|FTC
+15940252	PI3K pathway	PTC
+20804548	PI3K pathway	PTC
+18762555	PI3K pathway	PTC
+18762555	PI3K pathway	PTC
+18762555	PI3K pathway	PTC
+18762555	PI3K pathway	PTC
+18762555	PI3K pathway	PTC
+20564403	PI3K pathway	PTC|FTC
+24002705	PITX2-cycin A1 pathway	PTC
+21479404	PKA-mediated cAMP pathway	PTC
+19082310	PKA pathway	PTC
+22136817	Porphyrin and chlorophyll metabolism	PTC
+20736296	programmed cell death pathway	PTC
+14555660	prostanoid biosynthesis	PTC
+14555660	prostanoid biosynthesis	PTC
+15994200	PI3K/Akt pathway	PTC
+12947323	protein kinase C (PKC) pathway	PTC
+18226854	PTEN pathway	PTC
+15978330	Purine metabolism	PTC|MTC
+19017759	purinergic receptors	PTC|FTC
+22376167	RAF/MEK/ERK pathway	PTC
+22563563	RAF activation	PTC
+17174366	Ras/MAPK (ERK1/2) pathway	PTC|FTC
+20186005	RAS/MAPK pathway	PTC
+21289252	Ras/Raf/MAPK kinase/ERK pathway	MTC|PTC|FTC
+20564403	RAS/RAF/MAPK pathway	PTC|FTC
+17689531	RAS/RAF/MAPK pathway	PTC
+12907632	RAS/RAF/MEK/ERK/MAPK pathway	PTC
+21289252	Ras/Raf/MEK/ERK pathway	MTC|PTC|FTC
+17201587	RAS/RAF/MEK/MAPK kinase pathway	PTC
+12853977	Ras/Raf/MEK/MAPK pathway	PTC
+14508525	Ras/Raf/MEK/MAPK pathway	PTC
+11889192	Ras/MAPK kinase/MAPK pathway	PTC|FTC
+14996725	Ras pathway	PTC|FTC
+12853977	Ras pathway	PTC
+9811335	Ras pathway	PTC
+21131195	Ras pathway	PTC
+15867345	Ras pathway	PTC|MTC
+19255327	Ras/Raf/MAP/ERK pathway	PTC
+17464312	RAS/RAF/MAPK pathway	PTC
+22007921	Ras/Raf-mediated pathway	PTC
+21249150	RASSF1A-MST1-FoxO3 pathway	PTC
+21249150	RASSF1A-MST1-FoxO3 pathway	PTC
+21249150	RASSF1A-MST1 pathway	PTC
+15118916	Rb/E2F pathway	PTC|ATC
+15118916	Rb/E2F pathway	PTC|ATC
+15118916	Rb/E2F pathway	PTC|ATC
+16181240	RET/PTC-RAS-BRAF-MEK-MAPK kinase pathway	PTC
+14870776	RET/PTC-1 pathway	PTC
+12605035	RET/PTC-1 pathway	PTC
+19060924	RET/PTC pathway	PTC
+14981541	RET/PTC pathway	PTC
+15184868	RET/PTC-RAS/ERK pathway	PTC
+15761501	RET/PTC-RAS-BRAF pathway	PTC
+19956384	RET/PTC-RAS-BRAF-MAPK pathway	PTC
+17900235	RET/PTC-RAS-BRAF pathway	PTC
+17900235	RET/PTC-RAS-BRAF pathway	PTC
+17900235	RET/PTC-RAS-BRAF pathway	PTC
+16365291	RET/PTC-RAS-BRAF pathway	PTC
+16254036	RET/PTC-RAS-BRAF pathway	PTC
+12670889	RET/PTC-RAS-BRAF pathway	PTC
+17721188	RET/RAS/RAF pathway	PTC
+23828865	RET-induced pathway	MTC|PTC|FTC
+21289252	RET kinase pathway	MTC|PTC|FTC
+21289252	RET kinase pathway	MTC|PTC|FTC
+18418222	RET kinase pathway	PTC|FTC
+18418222	RET kinase pathway	PTC|FTC
+21289252	RET kinase pathway	MTC|PTC|FTC
+17709622	RET or BRAF pathway	PTC
+18418222	RET pathway	PTC|FTC
+11314023	RET pathway	PTC
+17063805	RET pathway	PTC|MTC
+15119004	RET pathway	PTC
+17220349	RET pathway	PTC
+18226854	RET/RAS/RAF/MAPK pathway	PTC
+11389034	Retroviral transduction	PTC
+10850426	RET tyrosine phosphorylation pathway	PTC|FTC
+17655865	RNA degradation	PTC
+20629553	SAPK/JNK cytoplasmic pathway	PTC
+20629553	SAPK/JNK MAPK pathway	PTC
+20629553	SAPK/JNK pathway	PTC
+20629553	SAPK/JNK pathway	PTC
+23544172	Notch pathway	PTC
+21814573	Wnt pathway	PTC
+21478229	S Phase	PTC
+12610352	S Phase	PTC
+21998631	S Phase	PTC|MTC
+21879253	S Phase	PTC
+17914108	S Phase	PTC
+15142440	S Phase	PTC
+3202993	S Phase	PTC
+3202993	S Phase	PTC
+3202993	S Phase	PTC
+3202993	S Phase	PTC
+10760768	S Phase	PTC
+7300245	S Phase	PTC
+9841750	S Phase	PTC
+9841750	S Phase	PTC
+11186427	S Phase	PTC
+8635070	S Phase	PTC
+8635070	S Phase	PTC
+22329804	S Phase	PTC
+22329804	S Phase	PTC
+21573476	S Phase	PTC|FTC
+21573476	S Phase	PTC|FTC
+21573476	S Phase	PTC|FTC
+21573476	S Phase	PTC|FTC
+21573476	S Phase	PTC|FTC
+15184868	S Phase	PTC
+3202993	S Phase	PTC
+21573476	S Phase	PTC|FTC
+19293266	Src pathway	PTC|ATC
+22586301	Src pathway	PTC|ATC
+12647789	STAT3 pathway	PTC|FTC
+21577321	STAT3 pathway	PTC
+18498667	STAT3 pathway	PTC
+15475935	Synthesis of PG	PTC
+18505566	TCR pathway	PTC|FTC
+11421607	Telomere Maintenance	PTC
+12921612	TFAR19-related apoptotic pathway	PTC
+21938494	TGF-beta EMT pathway	PTC
+21383698	TGF-beta pathway	PTC|PDTC
+22847364	TGF-beta pathway	PTC
+21874046	TGF-beta pathway	PTC
+21874046	TGF-beta pathway	PTC
+19861538	TGF-beta pathway	PTC
+22969748	TGF-beta pathway	PTC
+22969748	TGF-beta pathway	PTC
+21874046	TGF-beta pathway	PTC
+21874046	TGF-beta pathway	PTC
+22109972	TGF-beta pathway	PTC
+20685810	TGF-beta pathway	PTC
+20685810	TGF-beta pathway	PTC
+21220306	thyroid hormone biosynthesis	PTC
+8538619	thyroid hormone biosynthesis	PTC|ATC|FTC
+11523623	thyroid hormone biosynthesis	PTC
+8137584	thyroid hormone biosynthesis	PTC|FTC
+23724969	thyroid hormone biosynthesis	PTC
+16405405	thyroid hormone production	PTC
+11523623	thyroid hormone production	PTC
+23806737	thyroid hormone production	PTC
+15550503	thyroid hormone receptor (TR) pathway	PTC|FTC
+19558833	thyroid-stimulating hormone-peroxiredoxin1 pathway	PTC
+8957475	thyrotropin-adenylate cyclase-cyclic adenosine 3	PTC
+11729583	Thyroxine production	PTC|FTC
+10727003	Thyroxine production	PTC|FTC
+16676402	Tight junction	PTC|PDTC
+11369990	Tight junction	PTC
+19578981	Tight junction	PTC
+17525119	TLR3 expression pathway	PTC
+17525119	TLR3 levels pathway	PTC
+17525119	TLR3 pathway	PTC
+17525119	TLR3 pathway	PTC
+24363762	TLR4/CXCR7 pathway	PTC
+8875753	TNF-alpha pathway	PTC
+22993562	TNF-inducible pathway	PTC
+18474871	Toll-like receptor pathway	PTC
+10438545	TRAIL pathway	PTC|FTC
+21577321	STAT3 pathway	PTC
+23457043	Ras/Raf-1 pathway	PTC
+22109972	TGF-beta pathway	PTC
+21874046	TGF-beta pathway	PTC
+21220306	TSH pathway	PTC
+21220306	TSH pathway	PTC
+19558833	TSH-Prx1-Trx1-HIF-1 pathway	PTC
+19082310	TSHR pathway	PTC
+17220349	TSHR pathway	PTC
+22078085	TUTHYREF pathway	MTC|PTC|FTC
+15378648	tyrosine kinase pathway	PTC
+22511602	Vitamin D metabolism	PTC|FTC
+22511602	vitamin D pathway	PTC|FTC
+21814573	Wnt/beta-catenin pathway	PTC
+21814573	Wnt/beta-catenin pathway	PTC
+21814573	Wnt/beta-catenin pathway	PTC
+22204713	Wnt/beta-catenin pathway	PTC
+24002705	Wnt/beta-catenin pathway	PTC
+22204713	Wnt/beta-catenin pathway	PTC
+22204713	Wnt/beta-catenin pathway	PTC
+23261982	Wnt/beta-catenin pathway	PTC
+23261982	Wnt/beta-catenin pathway	PTC
+23796566	Wnt/beta-catenin pathway	PTC
+23796566	Wnt/beta-catenin pathway	PTC
+21814573	Wnt/beta-catenin pathway	PTC
+16115225	Wnt/beta-catenin pathway	PTC
+12107263	Wnt/beta-catenin pathway	PTC
+20470206	Wnt/beta-catenin pathway	PTC
+12107263	Wnt/beta-catenin pathway	PTC
+17525119	Wnt5a pathway	PTC
+17916995	Wnt pathway	PTC
+12107263	Wnt pathway	PTC
+21814573	Wnt pathway	PTC
+17916995	Wnt pathway	PTC
+19415957	Wnt pathway	PTC
+15681857	Wnt pathway	PTC|FTC
+11696170	Wnt pathway	PTC|FTC
+16115225	Wnt pathway	PTC
+12853977	Y1062 pathway	PTC
