@@ -23,13 +23,14 @@ System setup
 3. Install and setup PathNER; 
 4. Get all the libraries for each component and configure the classpath/build path in Eclipse;
 5. Put relevant data files/model files under the project folder (get them from each component’s installation;
-6. Currently the system needs to run each component separately and store the results into a local database, the main class is uk.ac.man.textpipe.TextPipe, to run, you need to specify the following parameters (subtype classification annotator as an example): 
+6. Currently the system needs to run each component separately and store the results into a local database, the main class is uk.ac.man.textpipe.TextPipe, to run, you need to specify the parameters as below (subtype classification annotator as an example).
+7. Install the database tables. I provide a dump .sql file for your reference. You can directly import the file into your own database. The database include the corpus data, TC related supplementary concepts and subtype classification data and genes/pathways recognition data. (The file is "all_tc_data_dump.sql" under the "scripts" folder).
+8. I also attached the scripts and intermediate data files used in this study, please find them under the “scripts” folder. 
 
+Running example:
 --databaseDocs "select * from tc_text" --annotator TcSubtypeClassifier --dbHost-articles mydbhost --dbUsername-articles mydbusername --dbPassword-articles mydbpass --dbSchema-articles mydb --compute resultdb resulttable --dbHost-db resultdbhost --dbUsername-db resultdbuser --dbPassword-db resultdbpass --dbSchema-db resultdb --report 100 --clearCompute
 
 For detail meanings of the parameters, please refer to Textpipe’s documentation. 
-7. Install the database tables. I provide a dump .sql file for your reference. You can directly import the file into your own database. The database include the corpus data, TC related supplementary concepts and subtype classification data and genes/pathways recognition data. (The file is "all_tc_data_dump.sql" under the "scripts" folder)
-8. I also attached the scripts and intermediate data files used in this study, please find them under the “scripts” folder. 
 
 
 -----------
