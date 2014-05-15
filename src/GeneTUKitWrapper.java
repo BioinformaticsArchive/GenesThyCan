@@ -1,44 +1,52 @@
-
 import genetukit.api.GNProcessor;
 import genetukit.api.GNResultItem;
 
-import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Random;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import martin.common.Misc;
+import moara.bio.entities.Organism;
+import moara.mention.entities.GeneMention;
+import moara.normalization.entities.GenePrediction;
+import moara.normalization.functions.ExactMatchingNormalization;
+import moara.util.Constant;
+import moara.util.EnvironmentVariable;
+import moara.util.text.StringUtil;
+import uk.ac.man.biocontext.util.Misc;
 import uk.ac.man.entitytagger.Mention;
 import uk.ac.man.entitytagger.generate.GenerateMatchers;
-
+import uk.ac.man.textpipe.Annotator;
 /**
  * Wrapper for the GeneTUKit gene NER tool.
  * @author Martin
- * Can combine this with Textpipe
- * Textpipe is really awesome!!!
  */
-public class GeneTUKitWrapper {
+public class GeneTUKitWrapper extends Annotator {
 	private GNProcessor processor;
 	private File tmpDir;
-	private static Random r = new Random();
+	private ExactMatchingNormalization gn;
+	private boolean verbose = true;
 
+	@Override
 	public void init(Map<String, String> data) {
-		this.tmpDir = new File("/tmp/");
+		this.tmpDir = new File("./tmp/");
 
 		//Load GeneTUKit
 		this.processor = new GNProcessor();
 		processor.open(true);
+		
+		EnvironmentVariable.setMoaraHome("./");
+		Organism human = new Organism(Constant.ORGANISM_HUMAN);	
+		gn = new ExactMatchingNormalization(human);
 	}
 
+	@Override
 	public String[] getOutputFields() {
-		return new String[]{"id","entity_id","entity_species", "entity_start","entity_end","entity_term","entity_group", "confidence"};
+		return new String[]{"id","entity_id","entity_species", "entity_start","entity_end","entity_term","org_entity_term", "entity_group", "confidence"};
 	}
 
 	/**
@@ -78,121 +86,9 @@ public class GeneTUKitWrapper {
 
 		return disambiguatedMentions;
 	}
-	
-	public static File writeTempFile(File tmpDir, String text) {
-		File f=null;
 
-		while (f == null || f.exists())
-			f = new File(tmpDir,"farzin-tmp-" + r.nextInt(1000000) + ".txt");
-
-		try{
-			BufferedWriter outStream = new BufferedWriter(new FileWriter(f));
-			outStream.write(text);
-			outStream.close();
-		} catch (Exception e){
-			System.err.println(e);
-			e.printStackTrace();
-			System.exit(-1);
-		}
-
-		return f;
-	}
-	
-	public List<Map<String, String>> process(Map<String, String> data) {
-		String text = data.get("doc_text");
-
-		GNResultItem[] items;
-		File f=null;
-		try {
-			if (data.get("doc_id").startsWith("PMC") && data.containsKey("doc_xml")){
-				f = writeTempFile(tmpDir, data.get("doc_xml")); //add extra newline and a hyphen, since GeneTUKit assumes at least two lines
-				items = processor.process(f.getAbsolutePath(), GNProcessor.FileType.NXML);
-				f.delete();
-			} else {
-				f = writeTempFile(tmpDir, text + "\n-"); //add extra newline and a hyphen, since GeneTUKit assumes at least two lines
-				items = processor.process(f.getAbsolutePath(), GNProcessor.FileType.PLAIN);
-				f.delete();
-			}
-		} catch (Exception e) {
-			System.err.println("error\tgenetukit crash\t" + data.get("doc_id") + "\t" + e.toString());
-			if (f != null)
-				f.delete();
-			return new ArrayList<Map<String,String>>();
-		}
-
-		List<Mention> mentions = new ArrayList<Mention>();
-
-		Map<String,String> geneIdToSpecies = new HashMap<String,String>();
-
-		for (GNResultItem item : items){
-			geneIdToSpecies.put(item.getID(), item.getSpeciesID());
-
-			for (String term : item.getGeneMentionList()){
-				Pattern p = Pattern.compile("\\b" + GenerateMatchers.escapeRegexp(term.toLowerCase()) + "\\b");
-				Matcher m = p.matcher(text.toLowerCase());
-				while (m.find()){
-					Mention mention = new Mention(item.getID(), m.start(), m.end(), text.substring(m.start(), m.end()));
-					mention.setProbabilities(new Double[]{item.getScore()});
-					mentions.add(mention);
-				}
-			}
-		}
-
-		mentions = disambiguate(mentions);
-		uk.ac.man.entitytagger.matching.Matcher.detectEnumerations(mentions, text);
-		Collections.sort(mentions);
-
-		return toMaps(mentions, geneIdToSpecies);		
-	}
-
-	/**
-	 * Converts a list of mentions to textpipe-style output maps.
-	 * @param mentions
-	 * @param geneIdToSpecies a map of gene -> species links
-	 * @return a list of maps containing key/value pairs describing the mentions
-	 */
-	private List<Map<String, String>> toMaps(List<Mention> mentions, Map<String, String> geneIdToSpecies) {
-		List<Map<String,String>> res = new ArrayList<Map<String,String>>();
-		int i = 0;
-		for (Mention m : mentions){
-			Map<String,String> map = new HashMap<String,String>();
-
-			map.put("id", ""+i++);
-			map.put("entity_id", m.getIds()[0]);
-			map.put("entity_start", ""+m.getStart());
-			map.put("entity_end", ""+m.getEnd());
-			map.put("entity_term", ""+m.getText());
-
-			String group = null;
-			if (m.getComment().indexOf("group: ") != -1){
-				int s = m.getComment().indexOf("group: ") + 7;
-				group = m.getComment().substring(s,m.getComment().indexOf(",",s));
-			}
-			map.put("entity_group", group);
-
-			map.put("confidence", ""+m.getProbabilities()[0]);
-
-			map.put("entity_species", geneIdToSpecies.get(m.getIds()[0]));
-
-			if (m.getProbabilities()[0] > 0.01){
-				res.add(map);
-			}
-		}
-
-		return res;
-	}
-
-	public void destroy() {
-		processor.close();
-	}
-	
-	public static void genetukitTest(){
-		boolean useBanner = true;
-		GNProcessor processor = new GNProcessor();
-		processor.open(useBanner);
-		GNProcessor.FileType fileType = GNProcessor.FileType.NXML;
-		GNResultItem[] items = processor.process("2858709.nxml", fileType);
-		processor.close();
+	public void debug_output(GNResultItem[] items){
+		
 		//Output GN results:
 		for(int j=0; j<items.length; j++)
 		{
@@ -212,16 +108,193 @@ public class GeneTUKitWrapper {
 		}
 	}
 	
+	@Override
+	public List<Map<String, String>> process(Map<String, String> data) {
+		String text = data.get("doc_text");
+		//System.out.println(text);
+
+		GNResultItem[] items;
+		File f=null;
+		try {
+			if (data.get("doc_id").startsWith("PMC") && data.containsKey("doc_xml")){
+				f = Misc.writeTempFile(tmpDir, data.get("doc_xml")); //add extra newline and a hyphen, since GeneTUKit assumes at least two lines
+				items = processor.process(f.getAbsolutePath(), GNProcessor.FileType.NXML);
+				f.delete();
+			} else {
+				if (verbose)
+					System.out.println(data.get("doc_id"));
+				f = Misc.writeTempFile(tmpDir, text + "\n-"); //add extra newline and a hyphen, since GeneTUKit assumes at least two lines
+				items = processor.process(f.getAbsolutePath(), GNProcessor.FileType.PLAIN);
+				f.delete();
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+			System.err.println("error\tgenetukit crash\t" + data.get("doc_id") + "\t" + e.toString());
+			if (f != null)
+				f.delete();
+			return new ArrayList<Map<String,String>>();
+		}
+
+		List<Mention> mentions = new ArrayList<Mention>();
+
+		Map<String,String> geneIdToSpecies = new HashMap<String,String>();
+		if (verbose)
+			debug_output(items);
+
+		for (GNResultItem item : items){
+			geneIdToSpecies.put(item.getID(), item.getSpeciesID());
+
+			for (String term : item.getGeneMentionList()){
+				term = term.replace("\\/", "/");
+				
+				Pattern p = Pattern.compile("\\b" + GenerateMatchers.escapeRegexp(term.toLowerCase()) + "\\b");
+				Matcher m = p.matcher(text.toLowerCase());
+				while (m.find()){
+					Mention mention = new Mention(item.getID(), m.start(), m.end(), text.substring(m.start(), m.end()));
+					mention.setProbabilities(new Double[]{item.getScore()});
+					Mention norMention = normalizeWithMoara(text, mention);
+					if (verbose){
+						System.out.println(mention.toString());
+					}
+					mentions.add(mention);
+				}
+			}
+		}
+
+		mentions = disambiguate(mentions);
+		uk.ac.man.entitytagger.matching.Matcher.detectEnumerations(mentions, text);
+		Collections.sort(mentions);
+		
+		return toMaps(mentions, geneIdToSpecies);		
+	}
+	
+	public Mention normalizeWithMoara(String text, Mention m){
+		ArrayList<GeneMention> gms = new ArrayList<GeneMention>();
+		Mention norMention = null;
+		
+		GeneMention gm = new GeneMention(m.getText(), m.getStart(), m.getEnd());
+		gms.add(gm);
+		
+		if (gms == null || gms.size() == 0)
+			return m;
+		
+		gms = gn.normalize(text,gms); //The text here is the whole document text, not the mention text
+		// Listing normalized identifiers...
+		StringUtil su = new StringUtil();
+		if (verbose)
+			System.out.println("Normalized by Moara\nStart\tEnd\t#Pred\tMention");
+		
+		for (int i=0; i<gms.size(); i++) {
+			gm = gms.get(i);
+			if (gm.GeneIds().size()>0) {
+				if (verbose) {
+					System.out.println(gm.Start() + "\t" + gm.End() + "\t"
+							+ gm.GeneIds().size() + "\t" + gm.Text());
+					for (int j = 0; j < gm.GeneIds().size(); j++) {
+						GenePrediction gp = gm.GeneIds().get(j);
+						System.out.print("\t" + gp.GeneId() + " "
+								+ gp.OriginalSynonym() + " "
+								+ gp.ScoreDisambig());
+						System.out.println((gm.GeneId().GeneId()
+								.equals(gp.GeneId()) ? " (*)" : ""));
+					}
+				}
+				
+				Mention mention = new Mention(gm.GeneId().GeneId(), gm.Start(), gm.End(), gm.Text());
+				mention.setProbabilities(new Double[]{gm.GeneId().ScoreDisambig()});
+				mention.setComment(gm.GeneId().OriginalSynonym());
+				norMention = mention;
+			}
+			
+		}
+		
+		return norMention;
+	}
+	
+	/**
+	 * Converts a list of mentions to textpipe-style output maps.
+	 * @param mentions
+	 * @param geneIdToSpecies a map of gene -> species links
+	 * @return a list of maps containing key/value pairs describing the mentions
+	 */
+	private List<Map<String, String>> toMaps(List<Mention> mentions, Map<String, String> geneIdToSpecies) {
+		List<Map<String,String>> res = new ArrayList<Map<String,String>>();
+		int i = 0;
+		for (Mention m : mentions){
+			Map<String,String> map = new HashMap<String,String>();
+
+			map.put("id", ""+i++);
+			map.put("entity_id", m.getIds()[0]);
+			map.put("entity_start", ""+m.getStart());
+			map.put("entity_end", ""+m.getEnd());
+			map.put("entity_term", ""+m.getText());
+			map.put("org_entity_term", m.getComment());
+
+			String group = null;
+			if (m.getComment().indexOf("group: ") != -1){
+				int s = m.getComment().indexOf("group: ") + "group: ".length();
+				group = m.getComment().substring(s, m.getComment().length());
+			}
+			
+			map.put("entity_group", group);
+
+			map.put("confidence", ""+m.getProbabilities()[0]);
+
+			map.put("entity_species", geneIdToSpecies.get(m.getIds()[0]));
+
+			res.add(map);
+			
+			/*
+			if (m.getProbabilities()[0] > 0.001){
+				res.add(map);
+			}*/
+		}
+
+		return res;
+	}
+
+	@Override
+	public void destroy() {
+		processor.close();
+	}
+	
 	/**
 	 * test main method
 	 * @param args
 	 */
 	public static void main(String[] args){
-		Map<String, String> data = new HashMap<String, String>();
-		String fileText = "cDNA clones corresponding to an Mr approximately 80,000 receptor (type I receptor) for interleukin-1 (IL-1) have been isolated previously by mammalian expression. ";
-		data.put("doc_text", fileText);
-		GeneTUKitWrapper gtkWrapper = new GeneTUKitWrapper();
 		
-		List<Map<String, String>> results = gtkWrapper.process(data);
+		boolean useBanner = true;
+
+		GNProcessor processor = new GNProcessor();
+		processor.open(useBanner);
+
+		GNProcessor.FileType fileType = GNProcessor.FileType.PLAIN;
+		GNResultItem[] items=null;
+		long t = System.currentTimeMillis();
+
+		/*
+		for (int i = 0; i < 1; i++)
+			items = processor.process("1934391.nxml", fileType);
+		*/
+		
+		System.out.println((System.currentTimeMillis() - t));
+
+		items = processor.process("1718282.txt", GNProcessor.FileType.PLAIN);
+
+		processor.close();
+
+		for (GNResultItem item : items){
+			for (String term : item.getGeneMentionList()){
+				//term = term.replace("\\/", "/");
+				System.out.println(term);
+				//item.getGeneMentionList();
+				
+				ArrayList<Mention> gms = null;
+			}
+		}
+		
+		
+	//	GeneTUKitWrapper.CKTest();
 	}
 }

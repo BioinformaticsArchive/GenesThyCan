@@ -52,8 +52,8 @@ public class GeneTest {
 		boolean useBanner = true;
 		GNProcessor processor = new GNProcessor();
 		processor.open(useBanner);
-		GNProcessor.FileType fileType = GNProcessor.FileType.NXML;
-		GNResultItem[] items = processor.process("2858709.nxml", fileType);
+		GNProcessor.FileType fileType = GNProcessor.FileType.PLAIN;
+		GNResultItem[] items = processor.process("1718282.txt", fileType);
 		processor.close();
 		//Output GN results:
 		for(int j=0; j<items.length; j++)
